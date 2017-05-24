@@ -1,3 +1,140 @@
-Free Spire.PDF for .NET
+Free Spire.PDF for .NET Main Features
 
-Free Spire.PDF for .NET enables developers to create, write, edit, convert, print, handle and read PDF files. Using this free .NET PDF library, you can implement rich capabilities to create PDF files from scratch or process existing PDF documents. Many rich features can be supported, such as security setting, PDF text/attachment/image extract, PDF merge/split, metadata update, section and paragraph optimizing, graph/image drawing and inserting, table creation and processing, and importing data etc.
+
+Support Environment
+
+Fully written in C# and also support VB.NET
+Applied on .NET Framework 2.0, 3.5, 3.5 Client Profile, 4.0, 4.0 Client Profile and 4.5
+Support Windows Forms and ASP.NET Applications
+Support 32-bit OS
+Support 64-bit OS
+Support PDF Version 1.2, 1.3, 1.4, 1.5, 1.6 and 1.7
+PDF API reference in HTML
+Be Independent and do not need Adobe Acrobat or other third party pdf libraries
+
+Conversion
+
+Convert Webpage HTML, HTML ASPX to PDF
+Convert Image(Jpeg, Jpg, Png, Bmp, Tiff, Gif, EMF, Ico) to PDF
+Convert Text to PDF
+Convert RTF to PDF
+Convert XPS to PDF
+Convert PDF to SVG
+Convert PDF to XPS
+Convert PDF to Image
+Convert PDF to Word
+
+Security
+
+Encrypt PDF(Owner Passwords and User Passwords)
+Decrypt PDF
+Create PDF Digital Signature
+Modify PDF Passwords(Owner Passwords and User Passwords)
+
+Text
+
+Draw Text
+Set Text Format(font, size, color, layout, rotate, transform, alignment, transparency)
+Read/Extract Text(Whole Page, Certain Page, Particular Pages)
+
+Fonts
+
+14 Core Fonts
+Type 1 Fonts
+Type 3 Fonts
+True Type Fonts
+CJK Fonts
+Unicode Support(Part)
+
+Images
+
+Draw Image
+Draw Special Shapes(lines, Rectangles, Circles, Arcs, Ellipses, Five-Pointed Star)
+Read/Extract Images(Jpeg, Jpg, Png, Bmp, Tiff, Gif, EMF, Ico)
+
+Attachments
+
+Add Attachments
+Add Attachments with Attachments Annotations
+Remove Attachments
+Read/Extract Attachments
+Read/Extract Attachments with Attachments Annotations
+Get Attachments Properties
+
+Tables
+
+Simple Table
+Image Table
+Nested Table
+Export Database Table and Pictures to PDF
+Set Table Layout
+
+Bookmarks
+
+Add Bookmarks
+Add Child Bookmarks
+Get Bookmarks
+Get Child Bookmarks
+Clear Bookmarks
+Modify Bookmarks
+Modify Child Bookmarks
+
+List
+
+Simple List
+Ordered List
+Multiple levels List
+
+Header and Footer
+
+Add Text in Header
+Add Text in Footer
+Add Image in Header
+Add Image in Footer
+
+Watermark
+
+Add Text Watermark
+Add Image Watermark
+Modify Text Watermark
+Modify Image Watermark
+
+Links and Actions
+
+Add Hyperlinks(Plain Link and Anchor Link)
+Work with Action
+Work with Javascript Action
+Work with Action Chain
+Work with Action Annotation
+
+FormField
+
+Add Fields(Text Box, Check Box, List box, Combo Box, Button, Radio Button)
+Remove Fields
+Edit Fields
+Fill Fields
+
+Pages
+
+Add PDF Pages
+Add Empty Page in PDF
+Delete PDF Pages
+Read/Extract PDF Pages
+Set Page Number
+Get Page Count
+Paginate Pages
+Set Page Transition
+Set Page Label
+Set Page Orientation
+Set Page Transparency
+Set Page Overlay
+Create PDF Booklet
+Draw PDF Barcode
+
+Document
+
+Set PDF Properties
+Set PDF View Preference
+Set PDF Template
+Merge PDF Files
+Split PDF File (by one page and any range of pages)
