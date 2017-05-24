@@ -1,0 +1,13 @@
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Attachment.exe
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Attachment.pdb
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Spire.License.dll
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Spire.Pdf.dll
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Spire.License.xml
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\bin\Debug\Spire.Pdf.xml
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\ResolveAssemblyReference.cache
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\Attachment.Form1.resources
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\Attachment.Properties.Resources.resources
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\GenerateResource.read.1.tlog
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\GenerateResource.write.1.tlog
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\Attachment.exe
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\09_Interaction\Attachment\obj\Debug\Attachment.pdb

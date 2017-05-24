@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Content" xml:space="preserve">
+    <value>Main articles: History of science and Scientific revolution
+While descriptions of disciplined empirical investigations of the natural world exist from times at least as early as classical antiquity (for example, by Aristotle and Pliny the Elder), and scientific methods have been employed since the Middle Ages (for example, by Alhazen and Roger Bacon), the dawn of modern science is generally traced back to the early modern period during what is known as the Scientific Revolution of the 16th and 17th centuries. This period was marked by a new way of studying the natural world, by methodical experimentation aimed at defining "laws of nature" while avoiding concerns with metaphysical concerns such as Aristotle's theory of causation.
+"Rapid accumulation of knowledge, which has characterized the development of science since the 17th century, had never occurred before that time. The new kind of scientific activity emerged only in a few countries of Western Europe, and it was restricted to that small area for about two hundred years. (Since the 19th century, scientific knowledge has been assimilated by the rest of the world)." — Joseph Ben–David, 1971.
+This modern science developed from an older and broader enterprise. The word "science" is from Old French, and in turn from Latin scientia which was one of several words for "knowledge" in that language. In philosophical contexts, scientia and "science" were used to translate the Greek word epistemē, which had acquired a specific definition in Greek philosophy, especially Aristotle, as a type of reliable knowledge which is built up logically from strong premises, and can be communicated and taught. In contrast to modern science, Aristotle's influential emphasis was upon the "theoretical" steps of deducing universal rules from raw data, and did not treat the gathering of experience and raw data as part of science itself.
+From the Middle Ages to the Enlightenment, science or scientia continued to be used in this broad sense, which was still common until the 20th century. "Science" therefore had the same sort of very broad meaning that philosophy had at that time. In other Latin influenced languages, including French, Spanish, Portuguese, and Italian, the word corresponding to science also carried this meaning.
+Prior to the 18th century, the preferred term for the study of nature among English speakers was "natural philosophy", while other philosophical disciplines (e.g., logic, metaphysics, epistemology, ethics and aesthetics) were typically referred to as "moral philosophy". (Today, "moral philosophy" is more-or-less synonymous with "ethics".) Science only became more strongly associated with natural philosophy than other sciences gradually with the strong promotion of the importance of experimental scientific method, by people such as Francis Bacon. With Bacon, begins a more widespread and open criticism of Aristotle's influence which had emphasized theorizing and did not treat raw data collection as part of science itself. An opposed position became common: that what is critical to science at its best is methodical collecting of clear and useful raw data, something which is easier to do in some fields than others.
+The word "science" in English was still however used in the 17th century to refer to the Aristotelian concept of knowledge which was secure enough to be used as a prescription for exactly how to accomplish a specific task. With respect to the transitional usage of the term "natural philosophy" in this period, the philosopher John Locke wrote in 1690 that "natural philosophy is not capable of being made a science". However, it may be that Locke was not using the word 'science' in the modern sense, but suggesting that 'natural philosophy' could not be deduced in the same way as mathematics and logic.
+Locke's assertion notwithstanding, by the early 19th century natural philosophy had begun to separate from philosophy, though it often retained a very broad meaning. In many cases, science continued to stand for reliable knowledge about any topic, in the same way it is still used today in the broad sense (see the introduction to this article) in modern terms such as library science, political science, and computer science. In the more narrow sense of science, as natural philosophy became linked to an expanding set of well-defined laws (beginning with Galileo's laws, Kepler's laws, and Newton's laws for motion), it became more popular to refer to natural philosophy as natural science. Over the course of the 19th century, moreover, there was an increased tendency to associate science with study of the natural world (that is, the non-human world). This move sometimes left the study of human thought and society (what would come to be called social science) in a linguistic limbo by the end of the century and into the next.
+Through the 19th century, many English speakers were increasingly differentiating science (i.e., the natural sciences) from all other forms of knowledge in a variety of ways. The now-familiar expression “scientific method,” which refers to the prescriptive part of how to make discoveries in natural philosophy, was almost unused until then, but became widespread after the 1870s, though there was rarely total agreement about just what it entailed. The word "scientist," meant to refer to a systematically working natural philosopher, (as opposed to an intuitive or empirically minded one) was coined in 1833 by William Whewell. Discussion of scientists as a special group of people who did science, even if their attributes were up for debate, grew in the last half of the 19th century. Whatever people actually meant by these terms at first, they ultimately depicted science, in the narrow sense of the habitual use of the scientific method and the knowledge derived from it, as something deeply distinguished from all other realms of human endeavor.
+By the 20th century, the modern notion of science as a special kind of knowledge about the world, practiced by a distinct group and pursued through a unique method, was essentially in place. It was used to give legitimacy to a variety of fields through such titles as "scientific" medicine, engineering, advertising, or motherhood. Over the 20th century, links between science and technology also grew increasingly strong. As Martin Rees explains, progress in scientific understanding and technology have been synergistic and vital to one another.
+Richard Feynman described science in the following way for his students: "The principle of science, the definition, almost, is the following: The test of all knowledge is experiment. Experiment is the sole judge of scientific 'truth'. But what is the source of knowledge? Where do the laws that are to be tested come from? Experiment, itself, helps to produce these laws, in the sense that it gives us hints. But also needed is imagination to create from these hints the great generalizations — to guess at the wonderful, simple, but very strange patterns beneath them all, and then to experiment to check again whether we have made the right guess." Feynman also observed, "...there is an expanding frontier of ignorance...things must be learned only to be unlearned again or, more likely, to be corrected."</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ImageDescription" xml:space="preserve">
+    <value>Personification of "Science" in front of the Boston Public Library</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Science History and Etymology</value>
+  </data>
+</root>

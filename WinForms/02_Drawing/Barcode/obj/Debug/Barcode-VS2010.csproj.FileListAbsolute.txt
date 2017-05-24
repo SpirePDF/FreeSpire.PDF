@@ -1,0 +1,13 @@
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Barcode.exe
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Barcode.pdb
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Spire.License.dll
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Spire.Pdf.dll
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Spire.License.xml
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\bin\Debug\Spire.Pdf.xml
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\ResolveAssemblyReference.cache
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\Barcode.Form1.resources
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\GenerateResource.read.1.tlog
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\GenerateResource.write.1.tlog
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\Barcode.exe
+E:\产品包\Spire.Office 2.13\Demos\PDFDemos\CS\WinForms\02_Drawing\Barcode\obj\Debug\Barcode.pdb
