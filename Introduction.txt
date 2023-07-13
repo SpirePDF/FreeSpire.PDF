@@ -4,7 +4,7 @@ Free Spire.PDF for .NET Main Features
 Support Environment
 
 Fully written in C# and also support VB.NET
-Applied on .NET Framework 2.0, 3.5, 3.5 Client Profile, 4.0, 4.0 Client Profile and 4.5
+Applied on .NET Framework 2.0, 3.5, , 4.0, .NET 5.0, .NET 6.0, .NET 7.0, .NETStandard, .NETCoreMonoAndroid and Xamarin.iOS application.
 Support Windows Forms and ASP.NET Applications
 Support 32-bit OS
 Support 64-bit OS
@@ -23,6 +23,8 @@ Convert PDF to SVG
 Convert PDF to XPS
 Convert PDF to Image
 Convert PDF to Word
+Convert PDF to Excel
+Convert PDF to PowerPoint
 
 Security
 
@@ -68,6 +70,7 @@ Image Table
 Nested Table
 Export Database Table and Pictures to PDF
 Set Table Layout
+Extract Table from PDF
 
 Bookmarks
 
